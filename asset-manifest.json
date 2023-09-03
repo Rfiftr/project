@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/.github.io/project/static/css/main.71c61893.css",
+    "main.js": "/.github.io/project/static/js/main.e87ae52d.js",
+    "static/media/website-game-logo.png": "/.github.io/project/static/media/website-game-logo.ed8472c307a4adf3ddc5.png",
+    "static/media/Group.png": "/.github.io/project/static/media/Group.8f80300d4cddb242d9cd.png",
+    "static/media/website-restaurant-logo.png": "/.github.io/project/static/media/website-restaurant-logo.c00be39a54dafe9c24b8.png",
+    "static/media/website-encription-logo.png": "/.github.io/project/static/media/website-encription-logo.922ea3b0cada076ae374.png",
+    "static/media/logo.png": "/.github.io/project/static/media/logo.a9b3265acfa7cb52d0a9.png",
+    "static/media/instagram.svg": "/.github.io/project/static/media/instagram.4d969dd141d389ed7a2fe7584b56d681.svg",
+    "index.html": "/.github.io/project/index.html",
+    "static/media/twitter.svg": "/.github.io/project/static/media/twitter.db226d55c343637e1371fc247b144b51.svg",
+    "static/media/facebook.svg": "/.github.io/project/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
+    "main.71c61893.css.map": "/.github.io/project/static/css/main.71c61893.css.map",
+    "main.e87ae52d.js.map": "/.github.io/project/static/js/main.e87ae52d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c61893.css",
+    "static/js/main.e87ae52d.js"
+  ]
+}
